@@ -12,8 +12,6 @@ Esse projeto é totalmente ficticio, ele simula uma Landing Page de uma agencia 
 
 <a href="https://igorpc.github.io/machupicchu/">Clique aqui para acessar o projeto</a>
 
-<p><strong>A hospedagem do GitHub não execulta o JQUERY que é responsavel pelo scroll suave</strong></p>
-
 <h3>IMPORTANTE</h3>
 <hr>
 
